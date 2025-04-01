@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @oreorenso
-- 👀 I’m interested in github
-- 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me, just swswsw
-- 😄 Pronouns: water/fire/earth/wind
-- ⚡ Fun fact: 1+1 equals window
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 oreorenso/oreorenso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
